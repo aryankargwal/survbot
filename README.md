@@ -58,7 +58,3 @@ streamlit run app.py
 
 ## License
 This repository is under the MIT License. Read more [here](LICENSE).
-
----
-
-This format should fit well with your existing repo style and provide clear instructions for setting up and using the application. Let me know if there are any specific details you'd like to adjust or add!
